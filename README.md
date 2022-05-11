@@ -20,7 +20,6 @@ $ go get -u github.com/gin-gonic/gin
 
 ![alt text](https://github.com/itzYubi/EmployeeManager-gin-gonic-go/blob/GET.PNG?raw=true)
 
-![GET](https://user-images.githubusercontent.com/63493407/167921153-c5544fe3-cbf9-458d-a84b-449fff8da3b5.png)
 <h3>Use the POST request to add an employee data to the CSV. Add the new Employee in the body (as in the image) </h3>
 ![POST](https://user-images.githubusercontent.com/63493407/167921166-25df6879-2e9f-4c67-88b5-2d6f6f80dc8a.png)
 
