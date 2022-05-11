@@ -21,7 +21,9 @@ $ go get -u github.com/gin-gonic/gin
 ![GET](https://user-images.githubusercontent.com/63493407/167923694-f6a06554-9942-4d06-bdd6-6870df6e3a5a.png)
 
 <h3>Use the POST request to add an employee data to the CSV. Add the new Employee in the body (as in the image) </h3>
-![POST](https://user-images.githubusercontent.com/63493407/167921166-25df6879-2e9f-4c67-88b5-2d6f6f80dc8a.png)
+
+![POST](https://user-images.githubusercontent.com/63493407/167923789-7d54b35e-08fa-4cbe-9bd4-29ba97f49c21.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
