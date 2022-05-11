@@ -24,3 +24,8 @@ $ go get -u github.com/gin-gonic/gin
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h3 align="center"> Improvements </h3>
+<h3> Feel free to improve this code. Try to make the name field of the imploy unique. Associate an employee id as a primary key and fetch employee details from it. Delete an employee from the csv. Add a database instead of a CSV! MongoDB is a good pick! </h3>
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
