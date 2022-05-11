@@ -6,5 +6,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
+<h3>Make sure you have Go installed in your system and install gin-gonic framework by running the command : </h3>
+$ go get -u github.com/gin-gonic/gin
 
-Here is How to ise ir
+<h3>Here is how to use it</h3>
